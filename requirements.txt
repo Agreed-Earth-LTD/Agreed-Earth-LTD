@@ -1,3 +1,0 @@
-pygis
-tsmoothie
-plotly.express
